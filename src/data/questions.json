@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual é a capital do Brasil?",
+      "answers": [
+        { "text": "São Paulo", "correct": false },
+        { "text": "Rio de Janeiro", "correct": false },
+        { "text": "Brasília", "correct": true },
+        { "text": "Salvador", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é o maior planeta do sistema solar?",
+      "answers": [
+        { "text": "Terra", "correct": false },
+        { "text": "Júpiter", "correct": true },
+        { "text": "Saturno", "correct": false },
+        { "text": "Marte", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Em que ano o Brasil foi descoberto?",
+      "answers": [
+        { "text": "1500", "correct": true },
+        { "text": "1492", "correct": false },
+        { "text": "1501", "correct": false },
+        { "text": "1498", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o elemento químico representado pelo símbolo 'O'?",
+      "answers": [
+        { "text": "Ouro", "correct": false },
+        { "text": "Oxigênio", "correct": true },
+        { "text": "Osmium", "correct": false },
+        { "text": "Óxido", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quantos continentes existem no mundo?",
+      "answers": [
+        { "text": "5", "correct": false },
+        { "text": "6", "correct": false },
+        { "text": "7", "correct": true },
+        { "text": "8", "correct": false }
+      ]
+    }
+  ]
+}
